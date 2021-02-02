@@ -12,3 +12,8 @@ print("the year is 2096, the world wide convention for resource allocation has j
 time.sleep(15)
 
 print("The world is populated with only people that are", food,"and everyone obeys the rules of their religion CHICKEN which believes in", mood,"however the world is a world based around the", good, "genre.")
+
+print("In this world people rely on each other in order to scrap past, living on less than 100 grains of rice a day, however there is a way to survive in what is called the cell, as this is where all prisioner are sent to work."
+
+
+
