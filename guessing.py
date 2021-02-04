@@ -15,6 +15,6 @@ while condition is true:
         print("nice, but try again BAKA")
     if guess == number:
         print("finally dumbass")
-
+        true =0
         number = random.randint(1, 100)
 
