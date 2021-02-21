@@ -16,9 +16,7 @@ while win is true:
         X = random.randint(0, number)
         print = ("congradulations to",people[X-1],"for winning the ISSAC")
 
-
     else :
          people.append(add)
-
 
 
